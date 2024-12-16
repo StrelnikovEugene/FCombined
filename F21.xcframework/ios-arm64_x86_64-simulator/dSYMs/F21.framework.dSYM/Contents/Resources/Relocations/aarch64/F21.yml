@@ -1,0 +1,20 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/eugene/proj/learn/spm/f1/F21/DerivedData/Build/Intermediates.noindex/ArchiveIntermediates/F21/InstallationBuildProductsLocation/Library/Frameworks/F21.framework/F21'
+relocations:
+  - { offset: 0x91, size: 0x8, addend: 0x0, symName: '_$s3F2111BaseF2ClassCACycfC', symObjAddr: 0x0, symBinAddr: 0x2A00, symSize: 0x84 }
+  - { offset: 0x199, size: 0x8, addend: 0x0, symName: '_$s3F2111BaseF2ClassC9secondVarSivpACTK', symObjAddr: 0xF8, symBinAddr: 0x2AF8, symSize: 0x44 }
+  - { offset: 0x1CC, size: 0x8, addend: 0x0, symName: '_$s3F2111BaseF2ClassC9secondVarSivpACTk', symObjAddr: 0x13C, symBinAddr: 0x2B3C, symSize: 0x40 }
+  - { offset: 0x206, size: 0x8, addend: 0x0, symName: '_$s3F2111BaseF2ClassCMa', symObjAddr: 0x240, symBinAddr: 0x2C40, symSize: 0x20 }
+  - { offset: 0x25C, size: 0x8, addend: 0x0, symName: '_$s3F2111BaseF2ClassCACycfC', symObjAddr: 0x0, symBinAddr: 0x2A00, symSize: 0x84 }
+  - { offset: 0x2BD, size: 0x8, addend: 0x0, symName: '_$s3F2111BaseF2ClassCACycfc', symObjAddr: 0x84, symBinAddr: 0x2A84, symSize: 0x74 }
+  - { offset: 0x364, size: 0x8, addend: 0x0, symName: '_$s3F2111BaseF2ClassC9secondVarSivg', symObjAddr: 0x17C, symBinAddr: 0x2B7C, symSize: 0x30 }
+  - { offset: 0x37F, size: 0x8, addend: 0x0, symName: '_$s3F2111BaseF2ClassC9secondVarSivs', symObjAddr: 0x1AC, symBinAddr: 0x2BAC, symSize: 0x3C }
+  - { offset: 0x3A5, size: 0x8, addend: 0x0, symName: '_$s3F2111BaseF2ClassC9secondVarSivM', symObjAddr: 0x1E8, symBinAddr: 0x2BE8, symSize: 0x3C }
+  - { offset: 0x3C8, size: 0x8, addend: 0x0, symName: '_$s3F2111BaseF2ClassC9secondVarSivM.resume.0', symObjAddr: 0x224, symBinAddr: 0x2C24, symSize: 0x4 }
+  - { offset: 0x3F7, size: 0x8, addend: 0x0, symName: '_$s3F2111BaseF2ClassCfd', symObjAddr: 0x228, symBinAddr: 0x2C28, symSize: 0x8 }
+  - { offset: 0x41A, size: 0x8, addend: 0x0, symName: '_$s3F2111BaseF2ClassCfD', symObjAddr: 0x230, symBinAddr: 0x2C30, symSize: 0x10 }
+  - { offset: 0x56D, size: 0x8, addend: 0x0, symName: '_$s2F104BaseA5ClassCMa', symObjAddr: 0x180, symBinAddr: 0x2CD0, symSize: 0x20 }
+  - { offset: 0x5A4, size: 0x8, addend: 0x0, symName: '_$s2F104BaseA5ClassCACycfC', symObjAddr: 0x130, symBinAddr: 0x2C98, symSize: 0x28 }
+  - { offset: 0x5D4, size: 0x8, addend: 0x0, symName: '_$s2F104BaseA5ClassCACycfc', symObjAddr: 0x158, symBinAddr: 0x2CC0, symSize: 0x10 }
+...

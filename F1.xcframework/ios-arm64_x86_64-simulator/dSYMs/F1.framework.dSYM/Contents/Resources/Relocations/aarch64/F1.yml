@@ -1,0 +1,17 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/eugene/proj/learn/spm/f1/F1/DerivedData/Build/Intermediates.noindex/ArchiveIntermediates/F1/InstallationBuildProductsLocation/Library/Frameworks/F1.framework/F1'
+relocations:
+  - { offset: 0x91, size: 0x8, addend: 0x0, symName: '_$s2F104BaseA5ClassC7baseVarSivpACTK', symObjAddr: 0x0, symBinAddr: 0x2C5C, symSize: 0x44 }
+  - { offset: 0x160, size: 0x8, addend: 0x0, symName: '_$s2F104BaseA5ClassC7baseVarSivpACTK', symObjAddr: 0x0, symBinAddr: 0x2C5C, symSize: 0x44 }
+  - { offset: 0x193, size: 0x8, addend: 0x0, symName: '_$s2F104BaseA5ClassC7baseVarSivpACTk', symObjAddr: 0x44, symBinAddr: 0x2CA0, symSize: 0x40 }
+  - { offset: 0x1CD, size: 0x8, addend: 0x0, symName: '_$s2F104BaseA5ClassCMa', symObjAddr: 0x180, symBinAddr: 0x2DDC, symSize: 0x20 }
+  - { offset: 0x239, size: 0x8, addend: 0x0, symName: '_$s2F104BaseA5ClassC7baseVarSivg', symObjAddr: 0x84, symBinAddr: 0x2CE0, symSize: 0x30 }
+  - { offset: 0x254, size: 0x8, addend: 0x0, symName: '_$s2F104BaseA5ClassC7baseVarSivs', symObjAddr: 0xB4, symBinAddr: 0x2D10, symSize: 0x3C }
+  - { offset: 0x27A, size: 0x8, addend: 0x0, symName: '_$s2F104BaseA5ClassC7baseVarSivM', symObjAddr: 0xF0, symBinAddr: 0x2D4C, symSize: 0x3C }
+  - { offset: 0x29D, size: 0x8, addend: 0x0, symName: '_$s2F104BaseA5ClassC7baseVarSivM.resume.0', symObjAddr: 0x12C, symBinAddr: 0x2D88, symSize: 0x4 }
+  - { offset: 0x2D4, size: 0x8, addend: 0x0, symName: '_$s2F104BaseA5ClassCACycfC', symObjAddr: 0x130, symBinAddr: 0x2D8C, symSize: 0x28 }
+  - { offset: 0x304, size: 0x8, addend: 0x0, symName: '_$s2F104BaseA5ClassCACycfc', symObjAddr: 0x158, symBinAddr: 0x2DB4, symSize: 0x10 }
+  - { offset: 0x331, size: 0x8, addend: 0x0, symName: '_$s2F104BaseA5ClassCfd', symObjAddr: 0x168, symBinAddr: 0x2DC4, symSize: 0x8 }
+  - { offset: 0x354, size: 0x8, addend: 0x0, symName: '_$s2F104BaseA5ClassCfD', symObjAddr: 0x170, symBinAddr: 0x2DCC, symSize: 0x10 }
+...

@@ -1,0 +1,162 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "F1",
+    "printedName": "F1",
+    "children": [
+      {
+        "kind": "TypeDecl",
+        "name": "BaseF1Class",
+        "printedName": "BaseF1Class",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "baseVar",
+            "printedName": "baseVar",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:2F104BaseA5ClassC7baseVarSivp",
+            "mangledName": "$s2F104BaseA5ClassC7baseVarSivp",
+            "moduleName": "F1",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:2F104BaseA5ClassC7baseVarSivg",
+                "mangledName": "$s2F104BaseA5ClassC7baseVarSivg",
+                "moduleName": "F1",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:2F104BaseA5ClassC7baseVarSivs",
+                "mangledName": "$s2F104BaseA5ClassC7baseVarSivs",
+                "moduleName": "F1",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:2F104BaseA5ClassC7baseVarSivM",
+                "mangledName": "$s2F104BaseA5ClassC7baseVarSivM",
+                "moduleName": "F1",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "BaseF1Class",
+                "printedName": "F1.BaseF1Class",
+                "usr": "s:2F104BaseA5ClassC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:2F104BaseA5ClassCACycfc",
+            "mangledName": "$s2F104BaseA5ClassCACycfc",
+            "moduleName": "F1",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:2F104BaseA5ClassC",
+        "mangledName": "$s2F104BaseA5ClassC",
+        "moduleName": "F1",
+        "isOpen": true,
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/eugene\/proj\/learn\/spm\/f1\/F1\/Sources\/F1\/F1.swift",
+      "kind": "IntegerLiteral",
+      "offset": 124,
+      "length": 1,
+      "value": "2"
+    }
+  ]
+}
